@@ -7,4 +7,5 @@ them about the do's and dont's while surfing the internet
 Here are some screen shots:
 
 ![Screenshot](screenshots/1.PNG)
+![Screenshot](screenshots/2.PNG)
 
