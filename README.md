@@ -5,3 +5,6 @@ I have created this project for Web Ranger 2019, I helps to alert kids on the da
 them about the do's and dont's while surfing the internet 
 
 Here are some screen shots:
+
+![Screenshot](screenshots/1.PNG)
+
